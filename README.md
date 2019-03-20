@@ -42,10 +42,10 @@ You should attempt to complete this challenge without looking at any other resou
 ## Exercise
 
 - Todo Router
-  - Create a new file name todosRouter.js
-  - Move all the endpoints from server.js to todosRouter.js
-  - Require the proper modules into todosRouter.js and export the router
-  - In server.js, mount the router on /v1/todos/ path (aka mount point)
+  - Create a new file name todo-router.js
+  - Move all the endpoints from app.js to todo-router.js
+  - Require the proper modules into todo-router.js and export the router
+  - In app.js, mount the router on /v1/todos/ path (aka mount point)
   - Remember to update the paths on the router files.
 - GET Endpoint: Add a GET endpoint to this server
 - POST Endpoint: Add a POST endpoint to this server
