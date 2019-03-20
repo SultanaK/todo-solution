@@ -28,7 +28,7 @@ You should attempt to complete this challenge without looking at any other resou
 - Ensure your PostgreSQL server is running
 - Create a User for this exercise
 - Create a database for the exercise with your user as the owner
-- Rename the `example.env` file to `.env` and update the following fields with your database credetials:
+- Rename the `example.env` file to `.env` and update the following fields with your database credentials:
   ```
    MIGRATION_DB_NAME=
    MIGRATION_DB_USER=
